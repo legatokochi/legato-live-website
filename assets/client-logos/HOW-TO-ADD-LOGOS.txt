@@ -1,0 +1,28 @@
+LEGATO LIVE - OFFICIAL CLIENT LOGOS
+
+This website will prefer a PNG logo in this folder and automatically show online brand images/website marks if none is available.
+
+For permanent, accurate, offline-ready logos, add official, approved transparent .png files using exactly these names:
+  porsche.png   — Porsche
+  harley-davidson.png   — Harley-Davidson
+  sbi.png   — SBI
+  incheon-kia.png   — Incheon Kia
+  metx360.png   — METX 360
+  entry-app.png   — Entry APP
+  pricol.png   — Pricol
+  harrisons-malayalam.png   — Harrisons Malayalam
+  holiday-inn.png   — Holiday Inn
+  nipm.png   — NIPM
+  aims.png   — Amrita Institute of Medical Sciences
+  aarbee.png   — Aarbee Structures
+  petronet-lng.png   — Petronet LNG
+  eo.png   — Entrepreneurs' Organization (EO)
+  agappe.png   — Agappe Diagnostics
+  apgb.png   — Andhra Pradesh Grameena Bank
+  maxwell.png   — Maxwell GeoSystems
+  orion.png   — Orion India Systems
+
+Tips: use transparent PNG files, approx 500-1000 px wide, preserve aspect ratios.
+Keep every organization in the same-size card. Confirm the brand and logo use before public launch.
+
+Entry APP is not unambiguously identifiable from the name: please confirm whether it means Entri App (entri.app), a different company, or a specific product.
