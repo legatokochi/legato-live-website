@@ -288,10 +288,10 @@ footer .brand img{width:210px;height:80px;object-fit:contain;mix-blend-mode:norm
 .production-card h3{font-size:clamp(22px,2vw,30px);line-height:1.2;letter-spacing:.35px;margin:26px 0 10px;color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.18)}
 .production-card p{max-width:260px;color:#ddd4ea;font-size:12px;line-height:1.75;margin:0;text-shadow:0 1px 8px rgba(0,0,0,.22)}
 .production-card-index{position:absolute;top:22px;right:21px;font-family:Oswald,sans-serif;color:#e6d7ff;font-size:14px;letter-spacing:2px;text-shadow:0 2px 8px rgba(0,0,0,.3)}
-.production-sound{--service-bg:url("assets/production/sound-system.png")}
-.production-lights{--service-bg:url("assets/production/lights.png")}
-.production-led{--service-bg:url("assets/production/led-wall.png")}
-.production-photo{--service-bg:url("assets/production/photo-video.png")}
+.production-sound{--service-bg:url("assets/production/sound-system.webp")}
+.production-lights{--service-bg:url("assets/production/lights.webp")}
+.production-led{--service-bg:url("assets/production/led-wall.webp")}
+.production-photo{--service-bg:url("assets/production/photo-video.webp")}
 .production-foot{margin-top:21px;padding:22px 0 0;display:flex;justify-content:space-between;align-items:center;gap:24px;border-top:1px solid #ffffff25}
 .production-foot p{max-width:650px;margin:0;color:#a99cbd;font-size:12px;line-height:1.8}
 .production-foot p span{color:var(--accent);margin-right:10px}
