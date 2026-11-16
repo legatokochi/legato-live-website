@@ -44,4 +44,5 @@ GitHub Pages can serve these files once the domain DNS and deployment are config
 November 12 update: added optional Production & Event Support immediately after Packages (Sound System, Lights, LED Wall, Photography & Videography); WhatsApp CTA reads ENQUIRE VIA WHATSAPP. Contact email and package-enquiry mailto links updated to bookings@legatolive.com. The custom mailbox must be configured and tested before public launch.
 
 
+
 Production-card photos: now displayed at full opacity with a light-to-dark gradient only behind text for readability. Other site content unchanged.
