@@ -362,3 +362,12 @@ footer .brand img{width:210px;height:80px;object-fit:contain;mix-blend-mode:norm
 
 /* Ensure the long word in the contact headline never overlaps the form. */
 @media(min-width:1081px){.contact-grid{grid-template-columns:minmax(0,1.02fr) minmax(0,1.18fr);gap:clamp(36px,4vw,70px)}.contact h2{font-size:clamp(49px,4.25vw,78px)}}
+/* Prevent horizontal overflow on mobile */
+@media (max-width: 768px) {
+  html,
+  body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: clip;
+  }
+}
